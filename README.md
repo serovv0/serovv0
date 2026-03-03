@@ -1,41 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4b6cb7,100:182848&height=150&section=header&text=Merhaba!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4b6cb7,100:182848&height=150&section=header&text=Hello!&fontSize=40&fontColor=ffffff" />
 </p>
 
-## 👋 Ben Kimim?
+## 👋 Who Am I?
 
-🎮 Oyun geliştirmeyi seviyorum  
-💻 Yazılımla ilgileniyorum  
-🧠 Kendi hızımda öğreniyorum
+💻 Interested in software development  
+🧠 Learning at my own pace  
+🚀 Always improving step by step  
 
 ---
 
-## 🛠️ Bildiğim Diller
+## 🛠️ Languages I Know
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ---
 
-## 🎮 Oyun Geliştirme
-<p align="left">
-  <img src="https://img.shields.io/badge/RPG%20Maker%20XP-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RPG%20Maker%20MV-1565C0?style=for-the-badge"/>
-</p>
-
-🧙‍♂️ RPG Maker ile:
-- Hikâye odaklı oyunlar  
-- Script ve sistem denemeleri  
-- Küçük ama tamamlanmış projeler  
-
----
-
-## 🌱 Şu An
-- Yeni şeyler öğreniyorum  
-- Oyun ve kod denemeleri yapıyorum  
-- Yavaş ama sağlam ilerliyorum
+## 🌱 Currently
+- Learning new technologies  
+- Building small coding projects  
+- Improving consistently  
 
 ---
 
