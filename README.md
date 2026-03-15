@@ -8,13 +8,13 @@
 🧠 Learning at my own pace  
 🚀 Always improving step by step  
 
----
+
 ## 🛠️ Languages I Know
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C# logo"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java logo"/>
 </p>
----
+
 
 ## 🌱 Currently
 - Learning new technologies  
